@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uditttttt" alt="uditttttt" /></a> </p>
 
-- 🔭 I’m currently working on **Samvaad**
-
 - 🌱 I’m currently learning **MERN Stack Development**
 
 <h3 align="left">Connect with me:</h3>
