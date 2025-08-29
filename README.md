@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditttttt&label=Profile%20views&color=0e75b6&style=flat" alt="uditttttt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uditttttt&theme=flat" alt="uditttttt" /></a> </p>
+[![Udit's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=uditttttt&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
@@ -21,7 +21,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uditttttt&show_icons=true&locale=en&layout=compact" alt="uditttttt" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=uditttttt&show_icons=true&locale=en" alt="uditttttt" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=uditttttt&" alt="uditttttt" />
-</div>
+  <img src="https://github-readme-
